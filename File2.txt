@@ -1,1 +1,2 @@
 ﻿This my second git txt file.
+Change 2
